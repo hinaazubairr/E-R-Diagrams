@@ -1,0 +1,41 @@
+ER Diagram for Student Enrolment
+		1. Identify the entities, attributes and relationships
+			- Student Table
+			- Course Table
+			- Enrolment Table
+			
+			# Student Table
+			Student ID	  Student Name	  Email
+			101	          A. Smith	      a.smith@gmail.com
+			102	          Bob Jones	      bob.jones@gmail.com
+			103	          C. Lee	          c.lee@gmail.com
+			
+			#Course Table
+			Course ID	  Course Title
+			CS101	      Introduction to programming
+			CS102	      Mathematics
+			CS103	      Calculus
+			
+			#Enrolment Table
+			Student ID	  Course ID
+			101	          CS101
+			102	          CS102
+			103	          CS103
+			
+			
+      Here entities are: Student Table, Course table
+			
+      Attributes for Student Table are: 
+				Student ID	Student Name	Email
+			
+      Attributes for Course Table are: 
+				Course ID	Course Title
+			
+      Relationship is:
+				Enrolment Table
+
+        
+		2. Choose your symbols:
+		3. Draw the connectors and set the cardinality
+
+
