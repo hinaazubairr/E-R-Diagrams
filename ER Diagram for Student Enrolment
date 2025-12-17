@@ -3,4 +3,6 @@ ER Diagram for Student Enrolment
 		1. Identify the entities, attributes and relationships
 			- Student Table
 			- Course Table
-      - Enrolment Table
+     		- Enrolment Table
+
+Student Table
