@@ -1,0 +1,6 @@
+# E-Learning Management System:
+A student can enrol in many subjects.
+One course can enrol in many subjects.
+A student can have many submission
+One assignment can have many submission.
+One instructor can instruct many course.
